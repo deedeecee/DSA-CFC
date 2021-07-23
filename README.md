@@ -1,2 +1,2 @@
 # DSA-CFC
-This repository contains solutions of DSA problems.
+This repository contains solutions to various DSA problems.
